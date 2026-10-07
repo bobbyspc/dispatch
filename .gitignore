@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+build
+.DS_Store
+*.pem
+npm-debug.log*
+.env*.local
+.vercel
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Handoff generation scratch
+.handoff/review/
+.handoff/reference/
+.handoff/run.json
+
+# Internal dashboard screenshot from the brief (not used by the site)
+public/images/uploads/

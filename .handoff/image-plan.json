@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "path": "public/images/desk-dusk.jpg",
+      "width": 1600,
+      "height": 1200,
+      "job": "atmosphere",
+      "alt": "A small office desk at dusk with a laptop, a notebook and a stack of paperwork",
+      "prompt": "A small-business office desk at dusk, an open laptop with a softly glowing blank screen, a spiral notebook, a coffee mug and a loose stack of invoices and envelopes. Cool blue-violet twilight from a window on the left, warm desk lamp off, deep shadows. Shot on a 35mm lens at f/2, three-quarter view from slightly above, shallow depth of field, quiet and unstaged, dark moody low-key exposure. No people, no readable text, no logos."
+    },
+    {
+      "path": "public/images/laptop-night.jpg",
+      "width": 1600,
+      "height": 1200,
+      "job": "atmosphere",
+      "alt": "A closed laptop on a quiet desk in the evening, a coat on the chair behind it",
+      "prompt": "A closed laptop resting on a tidy wooden desk in a small office at night after work, a coat draped over the chair behind it, a phone face down beside the laptop. Only the cool blue-violet light of a city window falls across the scene, the rest in soft darkness. Shot on a 50mm lens at f/1.8, eye level from the side, calm and unstaged, low-key exposure with gentle film grain. No people, no readable text, no logos."
+    }
+  ]
+}

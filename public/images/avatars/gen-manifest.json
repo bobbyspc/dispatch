@@ -1,0 +1,290 @@
+[
+  {
+    "generated_at": "2026-10-07T14:05:08.739474-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A woman with fair skin and a sleek black bob haircut, wearing a violet bomber jacket, confident look. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 925331637,
+    "count": 1,
+    "elapsed_seconds": 10.0,
+    "files": [
+      "gen__agent-rhea-20261007-140508.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:09.255992-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A young man with light olive skin, short wavy brown hair and a friendly grin, wearing an orange crewneck sweater over a collared shirt. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 827848608,
+    "count": 1,
+    "elapsed_seconds": 10.6,
+    "files": [
+      "gen__agent-sam-20261007-140508.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:09.547504-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A young woman with warm brown skin and curly dark hair tied up, wearing a slim headset with a mic and a soft magenta cardigan. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 395469395,
+    "count": 1,
+    "elapsed_seconds": 10.9,
+    "files": [
+      "gen__agent-aria-20261007-140509.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:09.802026-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A man with deep brown skin, a short beard and close-cropped hair, wearing a sky blue utility jacket. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 161099851,
+    "count": 1,
+    "elapsed_seconds": 11.2,
+    "files": [
+      "gen__agent-atlas-20261007-140509.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:19.081648-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A young person with East Asian features and a short undercut, wearing emerald green over-ear headphones around the neck and a green hoodie. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 1539434178,
+    "count": 1,
+    "elapsed_seconds": 9.1,
+    "files": [
+      "gen__agent-echo-20261007-140518.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:19.711544-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A woman with medium brown skin and short natural hair, small gold hoop earrings, wearing a rose pink blazer, attentive expression. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 359840450,
+    "count": 1,
+    "elapsed_seconds": 9.3,
+    "files": [
+      "gen__agent-juno-20261007-140519.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:19.816201-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. A woman with tan skin and long straight auburn hair, a pencil tucked behind one ear, wearing a lilac blouse. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 1887684475,
+    "count": 1,
+    "elapsed_seconds": 9.5,
+    "files": [
+      "gen__agent-paige-20261007-140519.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:20.359792-04:00",
+    "prompt": "Stylized 3D character portrait avatar for an app, soft matte clay render like a premium product mascot, head and shoulders, centered, facing the camera with a calm friendly expression, smooth simplified features, soft studio key light with a gentle violet rim light, plain smooth deep violet gradient background from #3a2a63 to #14111C. An older man with light skin, neat grey hair and round wire glasses, wearing an amber knit vest over a shirt. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 680821689,
+    "count": 1,
+    "elapsed_seconds": 11.1,
+    "files": [
+      "gen__agent-ledger-20261007-140519.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:30.492532-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. Selfie of a woman in her late twenties with long dark hair and a messy bun, holding an iced coffee, in a modern office, playful half smile, slightly high angle, soft daylight. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 885163973,
+    "count": 1,
+    "elapsed_seconds": 9.5,
+    "files": [
+      "gen__x-danadoesops-20261007-140529.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:30.701314-04:00",
+    "prompt": "Minimal flat vector app icon logo mark for a freight logistics company: a bold geometric north-pointing arrow chevron formed from a road with a single dashed center line, solid off-white mark on a rounded square of saturated violet #8B5CF6, centered, crisp edges, generous padding, flat design, no gradients, no letters, no text, no words.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 1778266020,
+    "count": 1,
+    "elapsed_seconds": 10.3,
+    "files": [
+      "gen__logo-northline-20261007-140530.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:31.067180-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. Head-and-shoulders portrait of a Latina woman in her mid thirties, an operations lead at a freight company, dark hair pulled back, smiling slightly, standing in a bright office with a blurred window behind her, soft daylight, 35mm look. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 828941894,
+    "count": 1,
+    "elapsed_seconds": 11.2,
+    "files": [
+      "gen__worker-dana-ortiz-20261007-140530.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:33.132757-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. Close-up of a freshly baked crusty sourdough loaf with a deep ear and flour dusting on a wooden cutting board in a home kitchen, warm window light, slightly off-center. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 1904474811,
+    "count": 1,
+    "elapsed_seconds": 12.7,
+    "files": [
+      "gen__x-carbmaxxing-20261007-140532.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:39.758969-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. Outdoor selfie of a Hispanic man in his early thirties wearing a backwards baseball cap and a plain t-shirt, squinting a little in the sun, parking lot behind him, slightly soft focus. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 2006516467,
+    "count": 1,
+    "elapsed_seconds": 8.6,
+    "files": [
+      "gen__x-jorgeNTJ-20261007-140539.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:42.009154-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. A South Asian woman in her late twenties with shoulder-length dark hair and small glasses, smiling at a cafe table with a laptop open, warm golden hour light from a window. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 2134292912,
+    "count": 1,
+    "elapsed_seconds": 10.4,
+    "files": [
+      "gen__x-priyabuilds-20261007-140541.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:42.909878-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. A well-used red pipe wrench lying on the tailgate of a white work truck, Florida palm trees blurred in the background, harsh midday sun. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 1869616018,
+    "count": 1,
+    "elapsed_seconds": 11.7,
+    "files": [
+      "gen__x-pipeguy_fl-20261007-140542.jpg"
+    ]
+  },
+  {
+    "generated_at": "2026-10-07T14:05:53.015411-04:00",
+    "prompt": "Casual social media profile photo taken on an iPhone, natural unedited look, square crop. A white man in his thirties with a short beard and sunglasses pushed up on his head, smiling on a hiking trail with green hills behind him, overcast light. No text, no logo, no watermark.",
+    "model_preset": "seedream-4.5",
+    "endpoint": "fal-ai/bytedance/seedream/v4.5/text-to-image",
+    "used_reference_endpoint": false,
+    "references": [],
+    "image_size": {
+      "width": 1536,
+      "height": 1536
+    },
+    "seed": 746193131,
+    "count": 1,
+    "elapsed_seconds": 19.3,
+    "files": [
+      "gen__x-mattwithtwots-20261007-140552.jpg"
+    ]
+  }
+]
